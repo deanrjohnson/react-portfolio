@@ -1,20 +1,20 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "name": "Dean Johnson",
+    "occupation": "ReactJS Developer",
+    "description": "New to the wonderful world of ReactJS and ReactJS Portfolio Builder by night",
     "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "bio": "My name is Dean, I am currently looking to become full time developer within the next 6 weeks so my wife can spend time finishing her PhD and I cab spend more time with my children who we homeschool and build my not for profit business",
+    "contactmessage": "Get in touch with me to receive further details or anything else.",
+    "email": "deanrjohnson@hotmail.com",
+    "phone": "+44 7960189888",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": ""
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "http://www.levmakesmehappy.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
@@ -69,24 +69,24 @@
         "level": "100%"
       },
       {
-        "name": "CSS",
-        "level": "95%"
+        "name": "",
+        "level": ""
       },
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "",
+        "level": ""
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "",
+        "level": ""
       },
       {
-        "name": "HTML5",
-        "level": "80%"
+        "name": "",
+        "level": ""
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "",
+        "level": ""
       }
     ]
   },
